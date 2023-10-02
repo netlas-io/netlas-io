@@ -33,7 +33,6 @@ You can also integrate Netlas.io services into your applications using API [→]
 
 ## What can Netlas.io be used for?
 
----
 
 
 It can be used to:
@@ -44,7 +43,6 @@ It can be used to:
  - host information gathering
 
 
----
 
 ## Who can benefit from Netlas.io?
 
