@@ -33,13 +33,18 @@ You can also integrate Netlas.io services into your applications using API [→]
 
 ## What can Netlas.io be used for?
 
-It can be used to investigate:
-
-* websites and web applications
-* IoT devices 
-* other online assets
+---
 
 
+It can be used to:
+
+ - investigate websites and web applications, IoT devices and other online assets
+ - recon
+ - attack surface management
+ - host information gathering
+
+
+---
 
 ## Who can benefit from Netlas.io?
 
