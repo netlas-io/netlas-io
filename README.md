@@ -2,28 +2,23 @@
 
 # Welcome to Netlas.io Github profile
 
-## What is Netlas.io?
+Netlas is the search engine + several additional services for surface management to find and analyse information about all IP addresses available on the Internet.
+
+Netlas.io includes several search tools:
 
 
-Search engine + several additional services for surface management to find and analyse information about all IP addresses available on the Internet.
-
-Netlas.io includes several tools.
-
-
-Search tools:
-
-**IP/Domain info** [→](https://app.netlas.io/host/)   
-**Response search** [→](https://app.netlas.io/responses/)  
-**DNS search** [→](https://app.netlas.io/domains/)   
-**IP WHOIS search** [→](https://app.netlas.io/whois/ip/)   
-**Domain WHOIS search** [→](https://app.netlas.io/whois/domains/)   
-**Certificates search** [→](https://app.netlas.io/certs/)  
+- **IP/Domain info** [→](https://app.netlas.io/host/)   
+- **Response search** [→](https://app.netlas.io/responses/)  
+- **DNS search** [→](https://app.netlas.io/domains/)   
+- **IP WHOIS search** [→](https://app.netlas.io/whois/ip/)   
+- **Domain WHOIS search** [→](https://app.netlas.io/whois/domains/)   
+- **Certificates search** [→](https://app.netlas.io/certs/)  
 
 
 
-Surface management tools:
+Surface management tools are in development:
 
-**Attack Surface Discovery Tool** [→](https://app.netlas.io/asd/)  
+- **Attack Surface Discovery Tool** [→](https://app.netlas.io/asd/)  
 
   
 Some of the databases collected by Netlas.io can be purchased from the Datastore [→](https://app.netlas.io/datastore/)  
