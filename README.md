@@ -72,7 +72,7 @@ You can also get a subscription for free if you are a blogger who writes or make
 
 We have several repositories with tutorials to help you quickly learn Netlas.io and use its features to their full potential:
 
-* Netlas CookBook
+* [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook)
 * [Netlas Dorks](https://github.com/netlas-io/netlas-dorks)
 * [Netlas Scripts](https://github.com/netlas-io/netlas-scripts)
   
