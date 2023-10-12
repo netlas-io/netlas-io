@@ -21,9 +21,9 @@ Surface management tools are in development:
 - **Attack Surface Discovery Tool** [→](https://app.netlas.io/asd/)  
 
   
-Some of the databases collected by Netlas.io can be purchased from the Datastore [→](https://app.netlas.io/datastore/)  
+Some of the databases collected by Netlas.io can be purchased from the **Datastore** [→](https://app.netlas.io/datastore/)  
 
-You can also integrate Netlas.io services into your applications using API [→](https://netlas.io/api)  
+You can also integrate Netlas.io services into your applications using **API** [→](https://netlas.io/api)  
 
 
 ## What can Netlas.io be used for?
