@@ -32,10 +32,10 @@ Here are some general use-cases:
 
 ## Netlas.io is paid?
 
-Netlas has a "Community" subscription. It becomes available immediately after registration and allows you to make **50 requests to the platform per day for free**. [Try now]([https://app.netlas.io/plans/](https://app.netlas.io/host/))
+Netlas has a "Community" subscription. It becomes available immediately after registration and allows you to make **50 requests to the platform per day for free**. [Try now](https://app.netlas.io/host/)
 
 
-For a commercial usa you need to pay for a "Freelancer", "Business", "Corporate" or "Enterprise" subscriptions. You can also get a subscription for free if you are a blogger who writes or makes videos about cybersecurity. [More details here](https://app.netlas.io/plans/)
+For a commercial usage you need to pay for a "Freelancer", "Business", "Corporate" or "Enterprise" subscriptions. You can also get a subscription for free if you are a blogger who writes or makes videos about cybersecurity. [More details here](https://app.netlas.io/plans/)
 
 
 
